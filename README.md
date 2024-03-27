@@ -1,4 +1,4 @@
-Real Estate Price Prediction Model
+# Real Estate Price Prediction Model
 
 This repository contains code for a real estate price prediction model, which is developed in two main stages: data preprocessing and model training/testing. The model aims to predict real estate prices based on various features such as square footage, location, Baths, Bedrooms, Balcony, and Availability.
 
