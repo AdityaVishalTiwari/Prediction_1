@@ -2,7 +2,7 @@
 
 This repository contains code for a real estate price prediction model, which is developed in two main stages: data preprocessing and model training/testing. The model aims to predict real estate prices based on various features such as square footage, location, Baths, Bedrooms, Balcony, and Availability.
 
-Stage 1: Data Preprocessing
+## Stage 1: Data Preprocessing
 In this stage, the focus is on preparing the data for model training. The following steps are performed:
 
 1) Maintaining Pipeline: Establishing a systematic pipeline to streamline data processing tasks.
@@ -13,7 +13,7 @@ In this stage, the focus is on preparing the data for model training. The follow
 6)  outliers, and encoding categorical variables.
 7) Preparing Good Data: Ensuring the dataset is well-prepared for model training by addressing data quality issues and enhancing feature representation.
 
-Stage 2: Model Training and Testing
+## Stage 2: Model Training and Testing
 This stage involves training and evaluating different regression models for predicting real estate prices. The steps include:
 
 1) Train-Test Split: Splitting the dataset into training and testing sets.
